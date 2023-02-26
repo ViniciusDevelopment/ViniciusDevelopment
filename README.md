@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=vinicius212004&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius212004&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs.js/?username=vinicius212004&layout=compact" />
 
 
 
