@@ -8,7 +8,7 @@
 
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius212004&show_icons=true&locale=pt-br&layout=compact" alt="vinicius212004" /> </p>
 
-<p><img align="center" width="100%"   src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius212004&locale=pt-br" alt="vinicius212004" /></p>
+<p><img align="center" height="500px" width="100%"   src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius212004&locale=pt-br" alt="vinicius212004" /></p>
 
 
 
@@ -42,22 +42,6 @@
   <a  href="https://www.linkedin.com/in/vin%C3%ADcius-maciel-pires-225020176/"><img align="left" alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <br />
  <!-- <a  href="https://www.instagram.com/coffee.tag.podcast/"><img align="left" alt="Youtube" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
