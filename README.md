@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, sou Vinícius Maciel Pires</h1>
+<h1 align="center">Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, sou Vinícius Maciel Pires</h1>
 <h3 align="center">Desenvolvedor Full-Stack Junior</h3>
 
 <p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinicius212004" alt="vinicius212004" / ></a> </p>
