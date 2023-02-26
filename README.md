@@ -1,8 +1,6 @@
 <h1 align="center">Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, sou Vinícius Maciel Pires</h1>
 <h3 align="center">Desenvolvedor Full-Stack Junior</h3>
 
-<p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinicius212004" alt="vinicius212004" / ></a> </p>
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https: //www.linkedin.com/in/vin%c3%adcius-maciel-pires-225020176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vin%c3%adcius -maciel-pires-225020176/" height="30" width="40" /></a>
