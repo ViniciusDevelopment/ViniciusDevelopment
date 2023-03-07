@@ -6,12 +6,12 @@
 
 <p height="262px"> <img align="left" height="262px" width="47%"   src="https://github-readme-stats.vercel.app/api?username=vinicius212004&show_icons=true&theme=dark&locale=pt-br" alt="vinicius212004" /> </p>
 
-<p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius212004&show_icons=true&locale=pt-br&layout=compact" alt="vinicius212004" /> </p>
+<p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius212004&show_icons=true&locale=pt-br&layout=compact&theme=dark" alt="vinicius212004" /> </p>
 
 <br>
 <br>
 
-<p><img align="center" height="250px" width="100%"   src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius212004&locale=pt-br" alt="vinicius212004" /></p>
+<p><img align="center" height="250px" width="100%"   src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius212004&locale=pt-br&theme=dark" alt="vinicius212004" /></p>
 
 
 
