@@ -4,7 +4,7 @@
 
 
 
-<p height="262px"> <img align="left" height="300px" width="47%"   src="https://github-readme-stats.vercel.app/api?username=ViniciusDevelopment&show_icons=true&theme=dark&locale=pt-br" alt="ViniciusDevelopment" /> </p>
+<p height="262px"> <img align="left" height="600px" width="47%"   src="https://github-readme-stats.vercel.app/api?username=ViniciusDevelopment&show_icons=true&theme=dark&locale=pt-br" alt="ViniciusDevelopment" /> </p>
 
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusDevelopment&show_icons=true&locale=pt-br&layout=compact&theme=dark" alt="ViniciusDevelopment" /> </p>
 
