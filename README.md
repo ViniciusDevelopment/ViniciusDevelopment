@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Vinícius Maciel Pires</h1>
-<h3 align="center">Desenvolvedor Full-Stack Junior</h3>
+<h3 align="center">Desenvolvedor</h3>
 
 
 
